@@ -1,15 +1,15 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/jose78/go-collection)](https://goreportcard.com/report/github.com/jose78/go-collection)
-[![Coverage Status](https://coveralls.io/repos/github/jose78/go-collection/badge.svg?branch=master)](https://coveralls.io/github/jose78/go-collection?branch=master)
-[![Go-Collections](https://github.com/jose78/go-collection/actions/workflows/go_collections.yml/badge.svg)](https://github.com/jose78/go-collection/actions/workflows/go_collections.yml)
-[![Go Reference](https://pkg.go.dev/badge/github.com/jose78/go-collection/v1.svg)](https://pkg.go.dev/github.com/jose78/go-collection/)
+[![Go Report Card](https://goreportcard.com/badge/github.com/jose78/go-collections)](https://goreportcard.com/report/github.com/jose78/go-collections)
+[![Coverage Status](https://coveralls.io/repos/github/jose78/go-collections/badge.svg?branch=master)](https://coveralls.io/github/jose78/go-collections?branch=master)
+[![Go-Collections](https://github.com/jose78/go-collections/actions/workflows/go_collections.yml/badge.svg)](https://github.com/jose78/go-collections/actions/workflows/go_collections.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/jose78/go-collections/v1.svg)](https://pkg.go.dev/github.com/jose78/go-collections/)
 
 
-# Go-collection <img align="right" width="80" height="100" src="resources/gopher.png">
+# Go-collections <img align="right" width="80" height="100" src="resources/gopher.png">
 
 
 
 
-The `go-collection` package provides a set of utility functions for working with collections (slices and maps) in Go. It includes functions for mapping, filtering, zipping, and performing actions on collections.
+The `go-collections` package provides a set of utility functions for working with collections (slices and maps) in Go. It includes functions for mapping, filtering, zipping, and performing actions on collections.
 
 Installation
 ------------
@@ -17,7 +17,7 @@ Installation
 To install the package, use:
 
 ```sh
-    go get github.com/jose78/go-collection
+    go get github.com/jose78/go-collections
 ```
 
 Usage

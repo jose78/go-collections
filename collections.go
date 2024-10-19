@@ -1,4 +1,4 @@
-package collection
+package collections
 
 import (
         "errors"
@@ -6,6 +6,8 @@ import (
         "reflect"
         "sort"
 )
+
+
 
 // Touple represents a key-value pair with a generic key and value.
 // The key must be of a comparable type, allowing it to be used in maps or
